@@ -40,11 +40,13 @@ https://cuckoo.team/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Home pagina (waar je een sessie aanmaakt).
-<img src="images/dummy-plaatje.jpg" width="375px" alt="De homepagina van cuckoo, hierin kan je een sessie aanmaken om daarna in te gaan werken.">
+ 
+<img src="images/home-cuckoo.png" width="375px" alt="De homepagina van cuckoo, hierin kan je een sessie aanmaken om daarna in te gaan werken.">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Werk pagina (waar je met de pomodoro methode aan de slag gaat).
-<img src="images/dummy-plaatje.jpg" width="375px" alt="De werkpagina van cuckooo, hierin kan je een timer aanzetten die naar beneden tijd terwijl je bezig bent.">
+ 
+<img src="images/werk-cuckoo.png" width="375px" alt="De werkpagina van cuckooo, hierin kan je een timer aanzetten die naar beneden tijd terwijl je bezig bent.">
  
 </details>
 
