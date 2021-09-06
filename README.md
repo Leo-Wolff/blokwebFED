@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Leo Kramer
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Rood
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Responsive
  
 </details>
 
@@ -36,15 +36,15 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://cuckoo.team/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home pagina (waar je een sessie aanmaakt).
+<img src="images/dummy-plaatje.jpg" width="375px" alt="De homepagina van cuckoo, hierin kan je een sessie aanmaken om daarna in te gaan werken.">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Werk pagina (waar je met de pomodoro methode aan de slag gaat).
+<img src="images/dummy-plaatje.jpg" width="375px" alt="De werkpagina van cuckooo, hierin kan je een timer aanzetten die naar beneden tijd terwijl je bezig bent.">
  
 </details>
 
