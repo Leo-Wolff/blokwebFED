@@ -22,7 +22,7 @@ Leo Kramer
 Rood
 
 #### Je focus:
-Responsive
+Surface plane
  
 </details>
 
