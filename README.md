@@ -46,7 +46,7 @@ Home pagina (waar je een sessie aanmaakt).
 #### Screenshot(s) van de tweede pagina (small screen):
 Werk pagina (waar je met de pomodoro methode aan de slag gaat).
  
-<img src="images/cuckoo-werk-phone.png" width="375px" alt="De werkpagina van cuckooo, hierin kan je een timer aanzetten die naar beneden tijd terwijl je bezig bent.">
+<img src="images/cuckoo-work-phone.png" width="375px" alt="De werkpagina van cuckooo, hierin kan je een timer aanzetten die naar beneden tijd terwijl je bezig bent.">
  
 </details>
 
