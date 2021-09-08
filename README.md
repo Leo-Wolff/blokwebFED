@@ -60,7 +60,7 @@ Werk pagina (waar je met de pomodoro methode aan de slag gaat).
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/cuckoo-werk-breakdown.jpg" width="375px" alt="breakdown van de hele pagina">
+<img src="images/cuckoo-werk-breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
