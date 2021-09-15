@@ -82,9 +82,10 @@ samen met je groepje opstellen
 
 | Leo      | Timo          | Joppe    | Maeren        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Willekeurige posities  | Responsiveness              | HTML structuur    | Hoe ik een nette html kan schrijven zonder div’s    |
+| Meer beweging bij elementen (schudden of colisions en zo) | positioneren | Positioneren | id’s en classes |
+| Informatie opslaan en verwerken |  |  | CSS positioneren |
+
 
 
 ### Verslag van meeting
