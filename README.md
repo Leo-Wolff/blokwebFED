@@ -76,7 +76,8 @@ Deze pagina is het hart van cuckoo en bevat ook de meest interressante code. De 
 
 ### Stand van zaken
 Tot nu toe is het niet heel lastig geweest om de website in elkaar te gooien, de html is niet heel ingewikkeld en de grootste onderdelen van de website zijn makkelijk in CSS te regelen (zoals de achtergrond kleur en het plaatsen van alle tekst). Waar ik wel moeite mee had was de navigatiebalk. Na wat spelen is het me gelukt om die op de juiste positie te zetten, maar ik had ook problemen met de hover (een compleet andere sectie bedekte de ruimte waar je op zou moeten hoveren), dit is nu wel opgelost. De grootste uitdaging zijn de timers, die moeten nog flink uitgewerkt worden, maar de fundering is bijna klaar dus de timers statisch neerzetten moet nu makkelijk te doen zijn voor volgende week.
-<img src="images/week2-nav.png" width="375px" alt="deze hover werkte alleen bij een bepaald gedeelte van de pagina en niet over de hele nav">
+ 
+<img src="images/week2-nav.png" width="100px" alt="deze hover werkte alleen bij een bepaald gedeelte van de pagina en niet over de hele nav">
 <img src="images/week2-timers.png" width="375px" alt="De eerste timer ziet er al goed uit, ik moet deze nog alleen een positie geven en dan kan ik de rest van de timers doen">
 
 ### Agenda voor meeting
