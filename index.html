@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="nl">
+	
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="jouw naam">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Cuckoo - Timer for remote teams</title>
+	
+	<link href="styles/style.css" rel="stylesheet">
+	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+
+<body>
+	<!-- Navigation bar -->
+	<header>
+		<nav>
+			<li>
+				<a>Sessions</a>
+			</li>
+			<li>
+				<a>Dark or light mode</a>
+			</li>
+			<li>
+				<a>Home</a>
+			</li>
+		</nav>
+	</header>
+
+	<main>
+		<!-- Changes depending on if a work timer is going off or a break timer -->
+		<h1>Work time</h1>
+
+		<!-- Select how long a timer should last -->
+		<section>
+			<ul>
+				<li>5</li>
+				<li>10</li>
+				<li>15</li>
+				<li>25</li>
+				<li>55</li>
+				<li>Have a break</li>
+			</ul>
+		</section>
+
+		<!-- See who has joined the session -->
+		<section>
+			<ul>
+				<li></li>
+			</ul>
+			<p>(number) member(s) in this Cuckoo.</p>
+			
+			<!-- Logo -->
+			<a>Powered by <span>Office</span><span>less</span></a>
+		</section>
+
+		<!-- Sessions tab -->
+		<section>
+			<h2>Sessions</h2>
+
+			<section>
+				<h3>Work sessions</h3>
+				<table>
+					<tr>
+						<th>5</th>
+						<th>10</th>
+						<th>15</th>
+						<th>25</th>
+						<th>55</th>
+						<th>
+							<form>
+								<input type="text" readonly placeholder="Add another session">
+							</form>
+						</th>
+					</tr>
+				</table>
+			</section>
+
+			<section>
+				<h3>Breaks</h3>
+				<table>
+					<tr>
+						<th>5</th>
+						<th>10</th>
+						<th>15</th>
+						<th>30</th>
+						<th>
+							<form>
+								<input type="text" readonly placeholder="Add another break">
+							</form>
+						</th>
+					</tr>
+				</table>
+			</section>
+		</section>
+	</main>
+
+	<footer>
+		<a>Created by Officeless Team</a>
+		<a>Support Cuckoo! (tea emoji)</a>
+		<p>We need your help! Buy us a coffee (or two) and help us take care of Cuckoo.</p>
+	</footer>
+
+	<script src="scripts/script.js"></script>
+</body>
+	
+</html>
