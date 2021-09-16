@@ -1,5 +1,162 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+/* variables */
+
+:root {
+    --background-colour-dark:#3e42a2;
+    --background-colour-light:#a3b2fd;
+    --background-colour-main: #4e50bf;
+    --font-types: "Aktiv Grotesk","Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    --text-colour-main: white;
+    --text-colour-accent: #171a6d;
 }
 
+* {
+    margin: 0;
+    overflow: hidden;
+}
+
+
+
+/* *************
+GENERAL
+************* */
+
+
+body {
+    font-family: var(--font-types);
+
+    background-color: var(--background-colour-main);
+    color: var(--text-colour-main);
+}
+
+nav {
+    position: absolute;
+    top: 0; right: 0; bottom: 0;
+
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+
+    line-height: 5em;
+    list-style-type: none;
+}
+
+nav:hover {
+    border: 1px solid rgba(0 0 0 / 0.25);
+
+    background-color: var(--background-colour-dark);
+}
+
+h1 {
+    padding: 1em;
+
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    color: var(--text-colour-accent);
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    visibility: hidden;
+}
+
+/* *************
+NTH TYPE 1 - BUBBLE TIMERS
+************* */
+
+main section:first-of-type {
+    position: relative;
+    left: 50%; top: 50%;
+    transform: translate(-50%,50%);
+}
+
+main section:first-of-type ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: var(--background-colour-light) solid 5px;
+    border-radius: 50%;
+
+    text-transform: uppercase;
+
+    background-color: var(--background-colour-dark);
+}
+
+main section ul li:first-of-type {
+    position: absolute;
+    top: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width:2.75em; height: 2.75em;
+    
+    font-size: 2.5em;
+}
+
+main section:first-of-type ul li:hover{
+    border-color: var(--text-colour-main);
+}
+
+
+
+/* *************
+NTH TYPE 2 - MEMBERS
+************* */
+
+main section:nth-of-type(2) p {
+    position: absolute;
+    bottom: 1em; left: 50%;
+    transform: translateX(-50%);
+
+    width: 20em;
+
+    font-size: 14px;
+
+    color: var(--background-colour-light);
+}
+
+main section:nth-of-type(2) a {
+    position: fixed;
+    right: 0; bottom: 0;
+
+    font-size: .7em;
+    text-transform: uppercase;
+
+    color: var(--background-colour-light);
+    opacity: 50%;
+}
+
+main section:nth-of-type(2) a:hover {
+    color: var(--text-colour-main);
+    opacity: 100%;
+}
+
+span:first-of-type {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+span:last-of-type {
+    font-size: 1.5em;
+}
+
+
+
+/* *************
+NTH TYPE 3 - MEMBERS
+************* */
+
+main section:nth-of-type(3) {
+    visibility: hidden;
+}
