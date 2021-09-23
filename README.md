@@ -71,7 +71,7 @@ Deze pagina is het hart van cuckoo en bevat ook de meest interressante code. De 
 
 ## Voortgang 1 (week 2)
 
-<details open>
+<details>
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
@@ -107,7 +107,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
@@ -117,11 +117,10 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Leo      | Timo          | Joppe    | Maeren        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Hoe selectoren aanpakt wanneer je met meerdere pagina's werkt  | Werken met media query's voor responsiveness | Werken met grid/ flexbox  | Hoe ik een nette html kan schrijven zonder div’s, id’s en classes   |
+| Werken met media query's voor responsiveness | |  | CSS positioneren. |
 
 
 ### Verslag van meeting
