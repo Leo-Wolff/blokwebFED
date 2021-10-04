@@ -111,7 +111,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 Ik had deze week nog heel veel moeite met het positioneren van alle timers, uiteindelijk met wat hulp van Sanne is het me gelukt om de fundering te hebben. Het enige wat er nu moet gebeuren is alle timers neerzetten op de juiste plek (en daarna de volgende pagina coderen). Ik zat daar vooral vast mee dus dat kostte mijn hele week eigenlijk. Gelukkig is dit eigenlijk het lastigste gedeelte van mijn code en is de rest wel te doen.
  
-<img src="images/week3-timers.png" width="100px" alt="door translate en rotate te gebruiken kan elke timer individueel neerzetten waar ik wil">
+<img src="images/week3-timers.png" width="150px" alt="door translate en rotate te gebruiken kan elke timer individueel neerzetten waar ik wil">
 
 
 ### Agenda voor meeting
@@ -178,7 +178,7 @@ Hou een duidelijk structuur die van onder naar beneden loopt en vermijd zo veel 
 ### Stand van zaken
 Ik heb deze week zo'n 90% van de website nagemaakt (zonder nog extra features). Ik had vooral moeite met het de sidebar werkende te laten maken aangezien er verschillende pagina's te zien zijn in een sidebar i.p.v. echt een navigatiemenu. Uiteindelijk is het wel gelukt en ik ben al heel trots op het resultaat. Nu nog puntjes op de i zetten.
  
- <img src="images/week4-sidebar.png" width="100px" alt="de sidebar van de website">
+ <img src="images/week4-sidebar.png" width="150px" alt="de sidebar van de website">
 
 
 ### Agenda voor meeting
@@ -213,9 +213,9 @@ De website is nu nagemaakt. Het enige waar ik geen tijd voor had is de tweede me
 
 hier screenshot(s) van je eindresultaat
  
- <img src="images/eind-home.png" width="100px" alt="de homepagina van de website">
+ <img src="images/eind-home.png" width="500px" alt="de homepagina van de website">
  
- <img src="images/eind-pomodoro.png" width="100px" alt="de pagina van de website met de timers">
+ <img src="images/eind-pomodoro.png" width="500px" alt="de pagina van de website met de timers">
 
 </details>
 
