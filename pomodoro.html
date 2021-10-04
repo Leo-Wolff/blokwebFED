@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+	
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="Leo-Kramer">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Cuckoo - Timer for remote teams</title>
+	
+	<link href="styles/style.css" rel="stylesheet">
+	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+</head>
+
+<body id="pomodoro-html">
+	<!-- Navigation bar -->
+	<header>
+		<nav>
+			<section>
+				<!-- Sessions -->
+				<a><img src="https://cuckoo.team/images/icon--sessions.svg" alt="Sessions icon"></a>
+				<div>
+					<h2>Sessions</h2>
+					<h3>Work sessions</h3>
+					<table>
+						<tr>
+							<th>5</th>
+						</tr>
+						<tr>
+							<th>10</th>
+						</tr>
+						<tr>
+							<th>15</th>
+						</tr>
+						<tr>
+							<th>25</th>
+						</tr>
+						<tr>
+							<th>55</th>
+						</tr>
+						<tr>
+							<th>
+								<form>
+								<input input type="text" id="add-session" name="add-session" readonly placeholder="Add another session">
+								</form>
+							</th>
+						</tr>
+					</table>
+					<h3>Breaks</h3>
+					<table>
+						<tr>
+							<th>5</th>
+						</tr>
+						<tr>
+							<th>10</th>
+						</tr>
+						<tr>
+							<th>15</th>
+						</tr>
+						<tr>
+							<th>30</th>
+						</tr>
+						<tr>
+							<th>
+								<form>
+								<input type="text" readonly placeholder="Add another break">
+								</form>
+							</th>
+						</tr>
+					</table>
+				</div>
+			</section>
+			
+			<section>
+				<!-- Dark or light mode -->
+				<a><img src="images/icon--colour.svg" alt="Customise colours of the website"></a>
+				<div>
+					<!-- This page does not have content -->
+				</div>
+			</section>
+
+			<section>
+				<!-- Home -->
+				<a href="index.html"><img src="https://cuckoo.team/images/icon--leave.svg" alt="Sessions icon"></a>
+			</section>
+
+			<section>
+				<a>Created by Officeless Team</a>
+				<a>Support Cuckoo!</a>
+				<p>We need your help! Buy us a coffee (or two) and help us take care of Cuckoo.</p>
+			</section>
+		</nav>
+	</header>
+
+	<main>
+		<!-- Changes depending on if a work timer is going off or a break timer -->
+		<h1 id="pomodoro-h1">Work time</h1>
+
+		<!-- Select how long a timer should last -->
+		<section>
+			<ul>
+				<li>5</li>
+				<li>10</li>
+				<li>15</li>
+				<li>25</li>
+				<li>55</li>
+				<li>Have a break</li>
+			</ul>
+		</section>
+
+		<!-- See who has joined the session -->
+		<section>
+			<ul>
+				<li></li>
+			</ul>
+			<p>(number) member(s) in this Cuckoo.</p>
+		</section>
+
+
+	</main>
+
+	<footer>
+		<!-- Logo -->
+		<a>Powered by <span>Office</span><span>less</span></a>
+	</footer>
+
+	<script src="scripts/script.js"></script>
+</body>
+	
+</html>
