@@ -172,7 +172,7 @@ Hou een duidelijk structuur die van onder naar beneden loopt en vermijd zo veel 
 
 ## Voortgang 3 (week 4)
 
-<details open>
+<details>
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
@@ -203,15 +203,19 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Eindgesprek (week 5)
 
-<details>
+<details open>
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De website is nu nagemaakt. Het enige waar ik geen tijd voor had is de tweede menu optie. Hierbij wou ik graag een dark mode en een contrast mode geven (ook in het algemeen wou ik meer werk doen voor responsiveness, maar dat was ook niet bepaald mijn focus). Ik zou hier nog aan de toekomst aan willen werken.
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+ 
+ <img src="images/eind-home.png" width="100px" alt="de homepagina van de website">
+ 
+ <img src="images/eind-pomodoro.png" width="100px" alt="de pagina van de website met de timers">
 
 </details>
 
