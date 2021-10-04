@@ -176,26 +176,24 @@ Hou een duidelijk structuur die van onder naar beneden loopt en vermijd zo veel 
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb deze week zo'n 90% van de website nagemaakt (zonder nog extra features). Ik had vooral moeite met het de sidebar werkende te laten maken aangezien er verschillende pagina's te zien zijn in een sidebar i.p.v. echt een navigatiemenu. Uiteindelijk is het wel gelukt en ik ben al heel trots op het resultaat. Nu nog puntjes op de i zetten.
+ 
+ <img src="images/week4-sidebar.png" width="100px" alt="de sidebar van de website">
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Leo      | Timo          | Joppe    | Maeren        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| variabelen veranderen van css via javascript  | Werken met media query's voor responsiveness | Grid in de footer  | |
+| | | En vraag over @font-face | |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- ik had niet echt feedback gekregen aangezien het meeste wel zelf lukt
 
 </details>
 
@@ -227,9 +225,9 @@ hier screenshot(s) van je eindresultaat
 <summary>continu bijhouden terwijl je werkt</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-1. bron 1
-2. bron 2
-3. ...
+ 
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://www.w3schools.com/
+3. https://codepen.io/shooft
 
 </details>
